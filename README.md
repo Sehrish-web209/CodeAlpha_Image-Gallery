@@ -1,6 +1,6 @@
-Responsive Image Gallery & Slider
+Responsive Image Gallery 
 
-A modern, interactive Image Gallery & Slider built to showcase images efficiently. This project highlights DOM manipulation, event handling, lightbox functionality, auto-slideshow, and responsive design using HTML, CSS, and JavaScript.
+A modern, interactive Image Gallery built to showcase images efficiently. This project highlights DOM manipulation, event handling, lightbox functionality, auto-slideshow, and responsive design using HTML, CSS, and JavaScript.
 
 ✨ Features
 
@@ -30,15 +30,15 @@ Responsive layout, hover effects, lightbox animations, Flexbox
 
 📂 Project Structure
 
-gallery-slider/
-├── index.html            # Main HTML file
-├── style.css             # Styling for gallery, slider, buttons, lightbox
-├── script.js             # JavaScript logic for slider, lightbox, filters & dots
-├── images/               # Images used in gallery
+Image Gallery/
+├── index.html           
+├── style.css             
+├── script.js          
+├── images/             
 │   ├── chocolate1.jpg
 │   ├── flower1.jpg
 │   └── sky1.jpg
-└── README.md             # Project documentation
+└── README.md           
 
 🚀 How to Run 
 
@@ -62,6 +62,5 @@ Hover over buttons for animated effects.
 
 Sehrish Maqbool – IT Student at University Of Chakwal
 
-Personal Project as a part of Internship Journey – Showcasing front-end web development skills with an interactive gallery & slider.
+Personal Project as a part of my CodeAlpha Internship Journey – Showcasing front-end web development skills with an interactive image gallery.
 
-I have done the task as a part of my internship journey at CodeAlpha.
