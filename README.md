@@ -40,21 +40,11 @@ gallery-slider/
 │   └── sky1.jpg
 └── README.md             # Project documentation
 
-🚀 How to Run Locally
+🚀 How to Run 
 
-Clone the repository:
+Run this :
 
-Bash
-
-git clone <https://github.com/Sehrish-web209/Image-Slider-Project.git>
-
-Navigate to the project folder:
-
-Bash
-
-cd gallery-slider
-
-Open index.html in your browser – No server setup required, works directly in the browser.
+https://sehrish-web209.github.io/CodeAlpha_Image-Gallery/
 
 💡 Usage:
 
@@ -73,3 +63,5 @@ Hover over buttons for animated effects.
 Sehrish Maqbool – IT Student at University Of Chakwal
 
 Personal Project as a part of Internship Journey – Showcasing front-end web development skills with an interactive gallery & slider.
+
+I have done the task as a part of my internship journey at CodeAlpha.
